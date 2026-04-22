@@ -1,47 +1,61 @@
-## Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<h1 align="center">Hi there, I'm Paulo 👋</h1>
 
-<div style="display: inline_block">
-  <a href="https://github.com/Paulo-Uchoa">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulo-uchoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-uchoa&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<p align="center">
+  <em>Java Developer · Backend Enthusiast · São Paulo, Brazil 🇧🇷</em>
+</p>
 
----
-
-### 🛠️ Tech Stack & Tools
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-</div>
-
----
-
-### 📫 Connect with me
-<div>
+<p align="center">
   <a href="https://www.linkedin.com/in/paulo-jose-vieira-uchoa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:paulojosevieira2011@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Paulo-Uchoa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+---
+
+## 🎯 About Me
+
+- 💻 **Java Mid-level Developer** — RESTful APIs, backend systems, and scalable architecture
+- 🌐 **Frontend experience** with Angular and TypeScript
+- 🗄️ Comfortable with **MySQL** and **Oracle** relational databases
+- 🌱 Currently exploring **cloud integrations**, microservices & DevOps practices
+- 🎮 Fun fact: I love coding challenges and optimizing algorithms!
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulo-uchoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-uchoa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
 
-### 🎯 About Me
-- 💻 Java Pleno | APIs RESTful | Angular & TypeScript  
-- 🗄️ Experienced with MySQL, Oracle, and relational databases  
-- 🔧 Passionate about building scalable backend systems and responsive frontends  
-- 🌱 Currently exploring cloud integrations, microservices & DevOps  
-- 🎮 Fun fact: I love coding challenges and optimizing algorithms! <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30">
+<p align="center">
+  <em>Always building, always learning.</em>
+</p>
