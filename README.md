@@ -73,6 +73,44 @@ public class PauloUchoa extends Developer {
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/Paulo-Uchoa/fintrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Uchoa&repo=fintrack&theme=github_dark&hide_border=true&bg_color=0d1117" alt="FinTrack"/>
+  </a>
+  <a href="https://github.com/Paulo-Uchoa/mobi-auto-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Uchoa&repo=mobi-auto-backend&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Mobi Auto"/>
+  </a>
+</div>
+
+### 💰 FinTrack — Controlador de Finanças Pessoais
+
+Aplicação **full-stack** para organizar a vida financeira: contas, categorias, transações, orçamentos mensais e relatórios visuais.
+
+- **O que faz:** autenticação com JWT (registro/login), CRUD de contas e categorias, lançamento de receitas e despesas com filtros e paginação, orçamentos por categoria com acompanhamento de *gasto vs. limite* e relatórios de receita × despesa com gráfico por categoria.
+- **Backend:** Java 17 · Spring Boot 3 · Spring Security (JWT) · JPA/Hibernate · PostgreSQL · Flyway · OpenAPI/Swagger
+- **Frontend:** Angular · TypeScript · RxJS + Signals
+- **Engenharia:** testes automatizados (JUnit 5, Mockito, Testcontainers), Docker Compose (banco + API + web) e CI no GitHub Actions
+
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+🔗 **[Ver repositório »](https://github.com/Paulo-Uchoa/fintrack)**
+
+### 🚗 Mobi Auto — API de Gestão de Concessionárias
+
+API REST para gestão de revendas de veículos, com controle de acesso por papéis (admin, proprietário, gerente, assistente) e atribuição automática de oportunidades por carga de trabalho.
+
+- **Stack:** Java 17 · Spring Boot 3 · Spring Security (JWT) · JPA/Hibernate · Swagger · Docker
+
+🔗 **[Ver repositório »](https://github.com/Paulo-Uchoa/mobi-auto-backend)**
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
