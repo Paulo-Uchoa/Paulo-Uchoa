@@ -22,7 +22,6 @@ public class PauloUchoa extends Developer {
     String location    = "São Paulo, SP 🇧🇷";
     String[] focus     = { "RESTful APIs", "Full-Stack Web Apps", "Event-Driven / Messaging" };
     String[] learning  = { "Cloud (AWS/GCP)", "Docker & Kubernetes", "DevOps" };
-    String funFact     = "I debug production issues faster with coffee ☕";
 
     @Override
     public String toString() {
