@@ -69,6 +69,9 @@ public class PauloUchoa extends Developer {
   <a href="https://github.com/Paulo-Uchoa/fintrack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Uchoa&repo=fintrack&theme=github_dark&hide_border=true&bg_color=0d1117" alt="FinTrack"/>
   </a>
+  <a href="https://github.com/Paulo-Uchoa/sentinel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Uchoa&repo=sentinel&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Sentinel"/>
+  </a>
   <a href="https://github.com/Paulo-Uchoa/notiflow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Uchoa&repo=notiflow&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Notiflow"/>
   </a>
@@ -90,6 +93,23 @@ A **full-stack** app to organize personal finances: accounts, categories, transa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 🔗 **[View repository »](https://github.com/Paulo-Uchoa/fintrack)**
+
+### 🛡️ Sentinel — Secure Cookie-Based Authentication
+
+A **security-focused** authentication service: tokens live in `HttpOnly` cookies (never exposed to JavaScript), not `localStorage`.
+
+- **What it does:** short-lived JWT access token + **rotating refresh token** with **reuse detection** — replaying a stolen token revokes the whole token family. Plus CSRF double-submit, brute-force lockout, Argon2id hashing, security headers and an audit trail.
+- **Backend:** Java 17 · Spring Boot 3 · Spring Security 6 · JWT · Argon2id · PostgreSQL · Flyway
+- **Frontend:** Angular 21 (cookie flow, CSRF + transparent token-refresh interceptors)
+- **Engineering:** unit, MockMvc and Testcontainers tests; Docker Compose and GitHub Actions CI
+
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+🔗 **[View repository »](https://github.com/Paulo-Uchoa/sentinel)**
 
 ### 🔔 Notiflow — Event-Driven Notification Service
 
